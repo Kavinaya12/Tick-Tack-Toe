@@ -1,7 +1,8 @@
 # Tick-Tack-Toe
 
-![Screenshot (54)](https://user-images.githubusercontent.com/86044198/194132137-eea3c019-3dc6-4f67-b92e-d94813fe47f1.png)
 
-![Screenshot (55)](https://user-images.githubusercontent.com/86044198/194132141-bc86872b-8971-439e-979f-52cae56db4a0.png)
+![Screenshot (57)](https://user-images.githubusercontent.com/86044198/194132591-792f5662-89c8-447b-9a68-5b8c88227080.png)
+
+![Screenshot (58)](https://user-images.githubusercontent.com/86044198/194132611-e8a5fe54-7f5d-470b-9b8e-463c741bcd97.png)
 
 ![Screenshot (56)](https://user-images.githubusercontent.com/86044198/194132131-2fae9279-0285-4c25-85db-40e270856c25.png)
